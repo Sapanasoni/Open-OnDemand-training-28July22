@@ -17,6 +17,6 @@ This workshop is an introductory course on productive use of OOD on Lawrencium s
 **Prerequisite**: a user account is preferred but not required\
 To request a Lawrencium account, please see “How to get a User Account on Lawrencium/Adding Additional Users to Your Project” at https://it.lbl.gov/resource/hpc/for-users/hpc-documentation/accounts/user-accounts \
 No previous experience with HPC is necessary.\
-Contact us at hpcshelp@lbl.gov if you have any questions.\
+Contact us at hpcshelp@lbl.gov if you have any questions.
 
 This repository contains slides for HPC Open OnDemand training on Lawrencium cluster. The slides and video recording of the presentation can be access here.
